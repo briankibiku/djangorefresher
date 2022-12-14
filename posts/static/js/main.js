@@ -1,0 +1,1 @@
+alert('Javascript detected! shoot and we are on a python framework')
